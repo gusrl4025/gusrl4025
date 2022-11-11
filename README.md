@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl4025)
 [![Slusy.io SapzilBoard](https://slusy.io/api/sapzil?userId=102)](https://slusy.io/profile/102)
 <!--
 **gusrl4025/gusrl4025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
