@@ -2,7 +2,6 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl4025)
 ![Slusy.io SapzilBoard](https://slusy.io/api/sapzil?userId=102)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)]
 <!--
 **gusrl4025/gusrl4025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
