@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl4025)
-![Slusy.io SapzilBoard](http://localhost:3000/api/sapzil?userId=204)
+![Slusy.io SapzilBoard](https://slusy.io/api/sapzil?userId=204)
 
 <!--
 **gusrl4025/gusrl4025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
