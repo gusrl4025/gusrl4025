@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Slusy.io SapzilBoard](https://slusy.io/api/sapzil?userId=204)](https://slusy.io/profile/204)
+[![Slusy.io SapzilBoard](https://slusy.io/api/sapzil?userId=204)](https://slusy.io/profile/204?sapzil_guide=true)
 <!--
 **gusrl4025/gusrl4025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
