@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl4025)]<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl4025)<br/>
 [![sdfsdf](http://localhost:3000/api/sapzil?userId=204)]
 <!--
 **gusrl4025/gusrl4025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
